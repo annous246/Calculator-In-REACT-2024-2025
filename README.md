@@ -10,5 +10,6 @@ Currently, two official plugins are available:
 =======
 # Calculator-In-REACT-2024-2025
 Calculator In REACT <br>
-https://github.com/annous246/Calculator-In-REACT-2024-2025/issues/1#issue-2396797457
+![image](https://github.com/annous246/Calculator-In-REACT-2024-2025/assets/64448280/6d3da976-30bb-416e-a9e4-74d5693fbb4d)
+
 >>>>>>> c3330e93b7c3e7894945bccd83dd99fb4e39a287
