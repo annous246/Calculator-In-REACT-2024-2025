@@ -9,5 +9,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # Calculator-In-REACT-2024-2025
-Calculator In REACT
+Calculator In REACT <br>
+https://github.com/annous246/Calculator-In-REACT-2024-2025/issues/1#issue-2396797457
 >>>>>>> c3330e93b7c3e7894945bccd83dd99fb4e39a287
